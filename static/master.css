@@ -1,5 +1,11 @@
+/* body font */
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+/* quote font */
 @import url(https://fonts.googleapis.com/css?family=Qwigley);
+
 body {
+    font-family: 'Roboto', sans-serif;
     min-height: 300px;
 }
 
