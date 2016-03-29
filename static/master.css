@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Qwigley);
+body {
+    min-height: 300px;
+}
+
+.intro-bg {
+    background-image: url('http://sf.co.ua/13/10/wallpaper-70819.jpg');
+    background-attachment: fixed;
+    background-position: 0px -70px;
+    background-size: 100% 50%;
+    background-repeat: no-repeat;
+    height: 55vh;
+}
+
+.intro-img {
+    overflow: hidden;
+    position: fixed;
+    margin-top: 30vh;
+    max-width: 20vh;
+    margin-left: 10%;
+}
+.intro-quote {
+    position: fixed;;
+    font-size: 30px;
+    margin-top: 10vh;
+    color:#B9B2AA;
+    font-family: 'Qwigley', cursive;
+}
+
+. segunda-row {
+        margin-top: 10px;
+}
